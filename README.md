@@ -1,5 +1,5 @@
 - Hi, I’m @AveryZhou
-- I’m interested in applied deep learning, currently in computer vision.
+- I’m interested in geometric deep learning.
 - I’m currently studying Computer Science (spec. Machine Learning) at Uchicago. 
 - Reach me: \[firstname]\[lastname](at)uchicago(dot)edu
 
